@@ -1,6 +1,6 @@
 # hackventure
 
-These files are the source code for NITMZ Hackathon and the topic is Chatbot-site that can help police personnel to file FIR, look up cases etc.
+<h3>These files are the source code for NITMZ Hackathon and the topic is Chatbot-site that can help police personnel to file FIR, look up cases etc.</h3>
 
 The site is live at http://chatbot2k23.great-site.net
 
@@ -16,7 +16,7 @@ The FIR section is connected to backend using php to MySQL. That enables the use
 
 The Recent Cases section retrieves data from the same FIR database when requested.
 
-##How to run
+<h2>How to run</h2>
 
 To host the site the user needs to upload all these files directly in any hosting site's file uploading space.
 
