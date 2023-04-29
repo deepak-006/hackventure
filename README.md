@@ -1,4 +1,6 @@
 # hackventure
+this files are the source code for NITMZ Hackathon and the topic is Chatbot-site that can help police personnel to file FIR, look up cases etc.
+
 The site is live at http://chatbot2k23.great-site.net
 
 the source code is available in this repository out of which, index.html is the main landing page of the site.
